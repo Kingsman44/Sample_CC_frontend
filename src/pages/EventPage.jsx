@@ -51,7 +51,7 @@ if (!event) return '';
         )}
       </div>
 
-      <img src="../src/assets/paduru.png" alt="" className='rounded object-fill aspect-16:9' height='30px' width='1200px'/> 
+      <img src="/paduru.png" alt="" className='rounded object-fill aspect-16:9' height='30px' width='1200px'/> 
       {/* FIXME: This is a demo image after completing the create event function delete this */}
 
       <div className="flex justify-between mt-8 mx-2">

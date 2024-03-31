@@ -49,7 +49,7 @@ export default function IndexPage() {
 
           <div href="#" className="flex items-center inset-0">
             <img
-              src="../src/assets/hero.jpg"
+              src="/hero.jpg"
               alt=""
               className="w-full h-auto" // Set the width to 100%, and height will adjust proportionally
               style={{ maxWidth: "1640px", height: "379px" }} // Set maximum width and fixed height
@@ -89,7 +89,7 @@ export default function IndexPage() {
                     </div>
 
                     <img
-                      src="../src/assets/paduru.png"
+                      src="/paduru.png"
                       alt=""
                       className="rounded-tl-[0.75rem] rounded-tr-[0.75rem] rounded-br-0 rounded-bl-0 object-fill aspect-w-16 aspect-h-9"
                       style={{ width: "400px", height: "200px" }}
